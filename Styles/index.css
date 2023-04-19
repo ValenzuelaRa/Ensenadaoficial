@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.encabezado{
+    display: inline-block;
+    width: 100%;
+    height: 200px;
+}
+
+.encabezado__logo{
+    padding: 17px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 30px;
+    padding: 24px;
+}
